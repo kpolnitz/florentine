@@ -1,0 +1,23 @@
+{
+  "name": "florentine",
+  "version": "1.0.0",
+  "description": "A cross-platform app for managing time!",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kpolnitz/florentine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kpolnitz/florentine/issues"
+  },
+  "homepage": "https://github.com/kpolnitz/florentine#readme",
+  "devDependencies": {
+    "electron": "^11.1.0"
+  }
+}
